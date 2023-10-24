@@ -1,10 +1,6 @@
 # <h1 align = "center"> User Management System </h1>
 #<h2 align = "center"> Created By : Prateek Santani </h2>
-___ 
 
-
-
----
 
 <p align="left">
 
